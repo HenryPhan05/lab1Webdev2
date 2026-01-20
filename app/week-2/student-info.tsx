@@ -1,8 +1,16 @@
+import Link from "next/link";
 export default function StudentInfo() {
   return (
     <>
       <h1>Phan Cao Thanh Vinh </h1>
-      <link rel="my Repository" href="" />
+
+      <Link
+        href="https://github.com/HenryPhan05/lab1Webdev2.git"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        My Repository
+      </Link>
     </>
   );
 }
