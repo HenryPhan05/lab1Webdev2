@@ -7,7 +7,7 @@ export default function StudentInfo() {
       <Link
         href="https://github.com/HenryPhan05/lab1Webdev2.git"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="my repository"
       >
         My Repository
       </Link>
