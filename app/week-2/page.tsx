@@ -5,9 +5,9 @@ export default function Page() {
       <main>
         <div>
           <h1>Shopping List </h1>
-        </StudentInfo>
-      </div>
-    </main >
+          <StudentInfo></StudentInfo>
+        </div>
+      </main >
     </>
   );
 }
